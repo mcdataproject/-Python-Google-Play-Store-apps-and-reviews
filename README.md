@@ -1,7 +1,7 @@
 # [Python] Google Play Store apps and reviews
 
 ## Introduction
-Mobile apps are everywhere. They are easy to create and can be lucrative. In this project, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Analyzing such data could find the answers to the following questions like:
+Mobile apps are everywhere. They are easy to create and can be profit-making. In this project, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Analyzing such data could find the answers to the following questions like:
 - Which two app categories have the highest share in the app market?
 - Does the size of an app affect its rating? Do users prefer light-weighted apps? 
 - Do users always prefer free apps over paid apps?
