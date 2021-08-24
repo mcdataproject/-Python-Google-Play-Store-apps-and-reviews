@@ -17,6 +17,6 @@ There are two datasets:
 ## Technology
 * **Python** (Pandas, Numpy, Plotly, Seaborn and Matplotlib) & **Jupyter Notebook**
 
-## Credit
+## Credit to Data Source
 Data from Kaggle: https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
 
