@@ -5,6 +5,7 @@ Mobile apps are everywhere. They are easy to create and can be profit-making. In
 - Which two app categories have the highest share in the app market?
 - Does the size of an app affect its rating? Do users prefer light-weighted apps? 
 - Do users always prefer free apps over paid apps?
+- Are paid apps installed as much as free apps? 
 
 
 ## Data Collection
