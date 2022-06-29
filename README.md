@@ -6,8 +6,6 @@ In this project, we will do a comprehensive analysis of the Android app market b
 - Does the size of an app affect its rating? Do users prefer light-weighted apps? 
 - Do users always prefer free apps over paid apps?
 - Are paid apps installed as much as free apps? 
-- ...
-
 
 ## Data Collection
 There are two datasets:
@@ -19,4 +17,3 @@ There are two datasets:
 
 ## Credit to Data Source
 Data from Kaggle: https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
-
